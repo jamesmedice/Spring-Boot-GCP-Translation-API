@@ -1,0 +1,11 @@
+#set up properties
+management:
+    security:
+        enabled: false
+
+server:
+    port: ${DEFAULT_PORT:8090}
+
+spring:
+    application:
+        name: app-translator
