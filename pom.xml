@@ -5,12 +5,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.medici</groupId>
-	<artifactId>catalogservice</artifactId>
+	<artifactId>translateservice</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
-
-	<name>invoice</name>
-	<description>Spring Boot</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
