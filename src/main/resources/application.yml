@@ -1,5 +1,5 @@
 #set up properties
-PROJECT_ID:qwiklabs-gcp-00-ffdb27a3e6f5
+PROJECT_ID: qwiklabs-gcp-00-ffdb27a3e6f5
 
 management:
     security:
